@@ -1,0 +1,62 @@
+.str{
+    
+    background-color: #66BFBF;
+    
+}
+
+body{
+    margin: auto;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    align-self: center;
+    margin: 0 auto; 
+    
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+.bc{
+    position: absolute;
+    left: 15%;
+}
+.tc{
+    padding-top: 100px;
+    position:relative;
+    left:  25%
+}
+.profilepic{
+    padding-top: 2%;
+    height: 180px;
+    width: 180px;
+    border-radius: 100%;
+    cursor: pointer;
+}
+.java{
+    border-radius: 100%;
+    border-width: 180px;
+    height: 180px;
+}
+.web{
+    border-radius: 100%;
+    width: 180px;
+    height: 180px;
+}
+
+.hidden-icon{
+    visibility: hidden;
+}
+.fa-brands{
+    padding-left: 10px;
+   
+}
+.footer-link{
+    width: 20px;
+    height: 26px;
+}
